@@ -1,0 +1,62 @@
+# Core Framework & GraphQL
+Django==5.2.4
+strawberry-graphql==0.275.5
+graphql-core==3.2.6
+sqlparse==0.5.3
+
+# Celery & Messaging
+celery==5.5.3
+amqp==5.3.1
+billiard==4.2.1
+kombu==5.5.4
+vine==5.1.0
+
+# Database
+psycopg2-binary==2.9.10
+redis==6.2.0
+
+# Data Processing & Numerical
+numpy==2.3.1
+pandas==2.3.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+
+# HTTP & Requests
+requests==2.32.4
+certifi==2025.6.15
+charset-normalizer==3.4.2
+idna==3.10
+urllib3==2.5.0
+
+# Developer Utilities & Tools
+black==25.1.0
+ipython==9.4.0
+ipython_pygments_lexers==1.1.1
+jedi==0.19.2
+mypy_extensions==1.1.0
+packaging==25.0
+pathspec==0.12.1
+python-decouple==3.8
+prompt_toolkit==3.0.51
+Pygments==2.19.2
+six==1.17.0
+typing_extensions==4.14.1
+wcwidth==0.2.13
+
+# Async & Execution Helpers
+asgiref==3.9.0
+click==8.2.1
+click-didyoumean==0.3.1
+click-plugins==1.1.1.2
+click-repl==0.3.0
+decorator==5.2.1
+executing==2.2.0
+matplotlib-inline==0.1.7
+parso==0.8.4
+pexpect==4.9.0
+platformdirs==4.3.8
+ptyprocess==0.7.0
+pure_eval==0.2.3
+stack-data==0.6.3
+traitlets==5.14.3
